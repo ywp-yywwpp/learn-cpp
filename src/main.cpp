@@ -2,7 +2,7 @@
 
 int add(int, int);
 
-int main(int argc, char *argv[])
+int main(int argc, char* argv[])
 {
     std::cout << "argc:" << argc << ",argv:" << argv[0] << "\n";
     std::cout << "current c++ version:" << __cplusplus << "\n";
